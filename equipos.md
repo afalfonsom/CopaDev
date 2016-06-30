@@ -46,6 +46,7 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Brandon Parra 
 * Andrés Buitrago
 * Javier Mozo
-* Jaime Parra
+* Jaime Pardo
+* Juan Carlos Martinez
 * Andrés Felipe Alfonso Martinez
 * 
