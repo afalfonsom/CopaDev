@@ -37,3 +37,14 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 
 * Daniel Naranjo - [@Bound3R](https://github.com/Bound3R)
 * ...
+
+### [Mi Águila](http://miaguila.com/)
+
+* Jonathan Henriquez
+* Alexander Martinez
+* Brandon Parra
+* Andrés Buitrago
+* Javier Mozo
+* Jaime Pardo
+* Juan Carlos Martinez
+* Andrés Felipe Alfonso Martinez
